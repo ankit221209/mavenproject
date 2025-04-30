@@ -2,3 +2,4 @@ implenting maven project
 and generating package by giving command
 mvn package
 for testing - mvn test
+for package - mvn package
